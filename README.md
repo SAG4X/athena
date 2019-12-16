@@ -5,7 +5,7 @@ Web based eLearning management system
 > SAG4X
 
 # Main Focus
-- Adding Coureses with proper content
+- Adding Courses with proper content
 - Add question section
 - Shuffle the questions
 - Awarding Systems for the acheivements
