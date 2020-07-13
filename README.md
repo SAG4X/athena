@@ -1,5 +1,5 @@
 # athenaUCSC
-Web based eLearning management system 
+Web based eLearning management system with gamification features
 
 > Codefest 
 > SAG4X
