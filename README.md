@@ -1,4 +1,4 @@
-# athenaUCSC
+# athena
 Web based eLearning management system with gamification features
 
 > Codefest 
