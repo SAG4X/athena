@@ -9,3 +9,7 @@ Web based eLearning management system with gamification features
 - Add question section
 - Shuffle the challenge questions
 - Awarding System for the acheivements
+
+# Functionality
+
+
