@@ -11,5 +11,6 @@ Web based eLearning management system with gamification features
 - Awarding System for the acheivements
 
 # Functionality
-
+- User Authentication
+- Course Enrolling with progress
 
